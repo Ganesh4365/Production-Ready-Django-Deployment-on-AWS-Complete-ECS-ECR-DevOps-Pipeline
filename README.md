@@ -1,6 +1,6 @@
 # Production-Ready Django Deployment on AWS: Complete ECS & ECR DevOps Pipeline
 
-![AWS]
+![AWS](https://imgur.com/wLMcRHS.jpg)
 
 **This comprehensive guide demonstrates how to deploy a Django-based production application onto AWS using ECS (Elastic Container Service) and ECR (Elastic Container Registry). We'll cover the complete DevOps pipeline from containerization to deployment, including security best practices, monitoring setup, and production optimization.**
 
@@ -105,6 +105,7 @@ myproject/
 
 ## 🐳 Docker & Containerization
 
+![Docker](https://imgur.com/raGErLx.png)
 
 ### What is Docker?
 
@@ -567,4 +568,4 @@ If you found this helpful, consider **starring** ⭐ the repository and sharing 
 
 ### 📢 Stay Connected  
 
-![Follow Me]
+Follow us,
